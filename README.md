@@ -9,3 +9,10 @@ A MERN full stack texting app that aims to bring a very secure, stress-free text
 # Features of the App
 
 Login Page: 
+
+![Login Page](screenshots/Login-Page.png)
+
+Login Page with Guest Credentials Autofilled: 
+
+![Login Page](screenshots/Login-Page-with-Guest-Creds.png)
+
