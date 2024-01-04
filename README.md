@@ -8,7 +8,7 @@ A MERN full stack texting app that aims to bring a secure, stress-free texting e
 
 **Authentication** - Token-based authentication via JSON Web Tokens combined with Bcrypt
 
-Additional Tools Used: Chakra UI, Socket.io (WebSockets), Postman, Lottie, Cloudinary, Render
+**Additional Tools Used** - Chakra UI, Socket.io (WebSockets), Postman, Lottie, Cloudinary, Render
 
 # Features of the App
 
